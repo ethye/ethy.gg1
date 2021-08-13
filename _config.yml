@@ -1,10 +1,10 @@
-title: bemoty's website # name of the site
-author: Bemoty # name of site's author
-email: josh@bemoty.dev # email of site's author
-url: https://bemoty.dev # root address of the site
+title: ethys website # name of the site
+author: ethy # name of site's author
+email: ethy@fastmail.fr # email of site's author
+url: https://ethy.gg # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  bemoty? bemoty? what's a bemoty?
+  ethy? wthy? what's a ethy?
 
 highlighter: rouge
 permalink: /:slug
